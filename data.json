@@ -1,0 +1,4 @@
+{
+    "message": "Hello, this is JSON data rendered by the Express server!",
+    "author": "Vikrant Kalyan"
+}

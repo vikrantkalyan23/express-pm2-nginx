@@ -14,3 +14,12 @@ brew install nginx
 
 or on windows
 sudo apt install nginx
+
+# Run :
+
+http://localhost:3000/data
+
+# Output :
+	
+message	"Hello, this is JSON data… by the Express server!"
+author	"Vikrant Kalyan"
